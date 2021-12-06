@@ -1,0 +1,21 @@
+{
+    "name": "Progressive Web App Example",
+    "short_name": "PWA Example",
+    "description": "this is my first web app",
+    "start_url": ".",
+    "background_color": "lightblue",
+    "theme_color": "red",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "images/logo192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/logo512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
